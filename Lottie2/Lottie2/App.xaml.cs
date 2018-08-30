@@ -10,7 +10,7 @@ namespace Lottie2
         public App()
         {
             InitializeComponent();
-
+            int x = 0;
             MainPage = new NavigationPage(new MainPage());
         }
 
